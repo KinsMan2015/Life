@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="life_text">#ffffff</color>
+    <color name="bg_life">#a2f78d</color>
+    <color name="text_color">#12c700</color>
+</resources>
